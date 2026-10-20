@@ -1,0 +1,11 @@
+# Build outputs (created by gcc, not written by hand)
+*.o
+*.i
+*.s
+*.out
+
+# Compiled programs in phase0
+phase0/hello_robot
+phase0/pipeline
+phase0/warn_demo
+
